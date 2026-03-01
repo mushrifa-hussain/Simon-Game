@@ -46,7 +46,7 @@ This project helps in practicing:
 
 ## Live Demo 🌐
 
-👉 [Play the Game](YOUR-LIVE-LINK)
+👉 [Play the Game]([YOUR-LIVE-LINK](https://mushrifa-hussain.github.io/Simon-Game/))
 
 ---
 
