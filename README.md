@@ -21,8 +21,10 @@ Test your memory by remembering and repeating the color pattern! 🧠✨
 * Simple and interactive design 🎨
 
 ## 📸 Preview
-- Here is a preview of the project:
-![WhatsApp Image 2025-12-11 at 00 42 38_3381bcba](https://github.com/user-attachments/assets/02fd5c80-e438-4170-b244-35a1f09b0bf3)
+- Here is a preview of the project
+![WhatsApp Image 2026-03-04 at 11 58 05 PM](https://github.com/user-attachments/assets/5c779ece-4bad-4115-b6d5-934d31d32c2e)
+![WhatsApp Image 2026-03-04 at 11 59 41 PM](https://github.com/user-attachments/assets/cfc770f1-1797-475d-9e63-e37a6a6a1290)
+![WhatsApp Image 2026-03-05 at 12 00 00 AM](https://github.com/user-attachments/assets/a9ca9a02-ab31-43ac-86cc-873507e4c4cb)
 
 ## Technologies Used 💻
 
