@@ -20,6 +20,10 @@ Test your memory by remembering and repeating the color pattern! 🧠✨
 * Restart and play again option 🔁
 * Simple and interactive design 🎨
 
+## 📸 Preview
+- Here is a preview of the project:
+![WhatsApp Image 2025-12-11 at 00 42 38_3381bcba](https://github.com/user-attachments/assets/02fd5c80-e438-4170-b244-35a1f09b0bf3)
+
 ## Technologies Used 💻
 
 * HTML
